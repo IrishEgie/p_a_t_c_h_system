@@ -4,8 +4,7 @@ The PATCH System represents a solution that uses Artificial Intelligence (AI) to
 However, the PATCH System goes beyond alerts. It encourages active user participation. If you encounter a pothole that hasn't been reported, the system allows you to easily notify the community. Moreover, if road conditions change – for example, if a reported pothole gets repaired – users can update this information, ensuring the system remains accurate and up to date. The PATCH System promotes collective road safety efforts, resulting in safer highways for all. 
 
 This system is designed and collaborated by BSCPE Students of Samar State University as a partial requirement in the completion of their capstone work.
-
-Sure, here's the list of developer build logs with the latest at the top:
+###Developer Logs
 
 ### 1.0.26 Version Update - Stable - 10-2 ==> 10-23-2023
 - General: 
