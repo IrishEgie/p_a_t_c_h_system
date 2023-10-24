@@ -5,7 +5,7 @@ However, the PATCH System goes beyond alerts. It encourages active user particip
 
 This system is designed and collaborated by BSCPE Students of Samar State University as a partial requirement in the completion of their capstone work.
 
-###Developer Logs
+### Developer Logs
 
 ### 1.0.26 Version Update - Stable - 10-2 ==> 10-23-2023
 - General: 
