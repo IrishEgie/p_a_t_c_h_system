@@ -165,3 +165,87 @@ This system is designed and collaborated by BSCPE Students of Samar State Univer
     - Fixed the black screen bug during track mode in the navigation page by removing the close all action when user is not within radius of a nearby pothole
     - Fixed the lag when switching between onPress state & onDoublePress state, on the user Track button by utilizing the loop action instead of Periodic action
     - Removed the double filtering to reduce lag in the navigation page Google Map load
+### 1.0.12 - 06-26-2023 ==> 06-28-2023
+- For quality of Life Improvements, the dev created a search button for finding the Reports, Users can now search for their location & nearest reports can be shown by the system.
+- Created multiple grid & list view components for the Following UI Feature.
+- A list & Grid view toggle has been created, this allows the user to switch between two different Views on the reports page.
+- Report Details page also added multiple new Fields with respect to the amount of fields in the Database.
+- Reports details page has now correct responsiveness solving previous overflow errors during debug tests.
+- Reports page section has also has been refurbished to correct overflow errors.
+- Navigation page, added a search location feature.
+- Search button is disabled if Place picker value is empty to prevent out-of-bounds search bugs.
+
+### 1.0.11 - 06-24-2023 ==> 06-26-2023
+- Due to inconsistent light & Dark Theme coloring, the Color scheme is refurbished for a more consistent color scheme in both light & dark themes.
+- Made a Splash Screen in Canva.
+- Created an app icon in Canva.
+- Reconfigured the Nav bar into Google Nav bar for a cleaner look.
+- Created a User manual for the PATCH System.
+- Created a new Section in the Sidebar for About and the User Manual.
+- Reworked the Reports Page for a new List Component for a cleaner look.
+- Removed the larger photo for the List Component, replacing it with a simple detail tile.
+- Used a Tab View Widget to separate both User Reports and Public Reports. User reports can now be edited or Deleted.
+- Reconfigured the Create Reports Page for a top-down form approach for faster user Reporting.
+
+### 1.0.10 - 06-20-2023 ==> 06-22-2023
+- Researched Coordinate Translation Algorithm.
+- Explored Affordable Reverse Geocoding APIs.
+- Investigated API Calls for FlutterFlow.
+- Configured Reverse Geocoding from GeoAPIfy website after multiple attempts.
+- Tested API Functionality on the App.
+- Wrote a Function to write the API Response as text in Firebase Database.
+
+### 1.0.9 - 06-20-2023
+- Reworked the UI for the User Profile Page to be decluttered, minimizing the use of text boxes.
+- Resized the image boxes.
+- Tested the Authentication Verification.
+- Utilized a new Component in the Sidebar for Dark and Light Theme for the App.
+- Reconfigured the Layout for the Reports Page Component.
+- Utilized a function to change the LatLng Variable into a readable address.
+
+### 1.0.8 - 06-19-2023
+- Configured Backend for correct referencing on User Pothole Reports so that users can create their reports.
+- Users can also see other users' reports.
+- Created a Draft for the Add Reports Page.
+
+### 1.0.7 - 06-18-2023
+- Completed the onTap function for the Reports Page Component list tap.
+- Initiated Reports Details Bottom Sheet.
+- Referenced the Report Details data to the correct document in the Backend.
+- Reconfigured all data to the correct configuration.
+- Added document fields for the Pothole Reports Collection.
+
+### 1.0.6 - 06-18-2023
+- Created a Reports Details page.
+- Created test Data for the Configuration of the Application Database Backend.
+- Configured the Reports page backend to read and write pothole reports.
+
+### 1.0.5 - 06-18-2023
+- Created components for Pothole Reports Listing.
+- Established UI For the Reports Page.
+- Created Flutter Actions for the Custom Component Widget in the reports page.
+
+### 1.0.4 - 06-18-2023
+- Completed the Authentication pages by furnishing the Backend Code for usable authentication.
+- Improved User Interface, Utilized a cohesive Color Theme for the entire interface.
+
+### 1.0.3 - 06-18-2023
+- Created Authentication Pages, Create Account or Login Page.
+- Created a User Profile Page.
+- Created an Edit Profile Page where the User can edit their images and Username.
+
+### 1.0.2 - 06-17-2023
+- Reconnected and Re-established Firebase DB for the PATCH System.
+
+### 1.0.1 - 06-16-2023
+- Created a Firebase.
+- Added FlutterFlow dependencies in Firebase.
+- Firebase is Connected.
+- Database write test failed, database read/fetch is successful.
+
+### 1.0.0 - 06-15-2023
+- Created A Detection Page.
+- Created A Navigation Page.
+- Created A Reports Page.
+- Added a Side bar Menu based on the Drawer Widget in FlutterFlow.
+- Created Support Pages in the Sidebar complete with Navigation.\
