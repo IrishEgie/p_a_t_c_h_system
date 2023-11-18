@@ -1,5 +1,6 @@
 # PATCH System
 The PATCH System represents a solution that uses Artificial Intelligence (AI) to transform the way we navigate highways. At its core, the system employs AI algorithms to detect road potholes. While you're on the road, the system continuously scans the pavement ahead if a reported pothole is ahead. If a pothole is detected, you receive immediate alerts, allowing you to adapt your driving and avoid these obstacles safely.
+
 However, the PATCH System goes beyond alerts. It encourages active user participation. If you encounter a pothole that hasn't been reported, the system allows you to easily notify the community. Moreover, if road conditions change – for example, if a reported pothole gets repaired – users can update this information, ensuring the system remains accurate and up to date. The PATCH System promotes collective road safety efforts, resulting in safer highways for all.
 This system is designed and collaborated by BSCPE Students of Samar State University as a partial requirement in the completion of their capstone work.
 
